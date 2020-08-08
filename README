@@ -1,10 +1,10 @@
-Class project   https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/FinalProject/RoddenFinalProject_BlogasMarkdownFile.md
+## Class project   https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/FinalProject/RoddenFinalProject_BlogasMarkdownFile.md
 
-Most frequent terms https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/README.md  in the syllabus for Biostatistics 512 class
+## Most frequent terms https://github.com/GitHubUNCStudent/BIOS512-assignments/blob/master/README.md  in the syllabus for Biostatistics 512 class
 
-Some of the pages from the prototype website built as a proof of concept for FHIR being used for multi-site IRBs during internship at Duke University.
-Many of the links will not work because I no longer have access to the database.
+## Some of the pages from the prototype website built as a proof of concept for FHIR being used for multi-site IRBs during internship at Duke University.
+Note that many of the links will not work because I no longer have access to the database, although I may be replacing the database with my own database in the future.
 
-http://fhirsirbtesting.pythonanywhere.com/study_forms/
+## http://fhirsirbtesting.pythonanywhere.com/study_forms/
 
-http://fhirsirbtesting.pythonanywhere.com/research_studyDB
+## http://fhirsirbtesting.pythonanywhere.com/research_studyDB
