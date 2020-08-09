@@ -1,3 +1,7 @@
+# <span style="color:blue">Diane Rodden</span>
+# <span style="color:blue"> UNC-Chapel Hill MSIS May 2020</span>
+
+
 # Welcome to my repository
 
 ## This is a work in progress. I have many improvements and additions to make.
