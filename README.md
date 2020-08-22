@@ -22,3 +22,6 @@
 >> http://fhirsirbtesting.pythonanywhere.com/research_studyDB
 
 *Note that many of the links for the FHIR IRB project will not work because I no longer have access to the FHIR server, although I may be replacing the FHIR server with my own database in the future.*
+
+
++ ## [COVID19 Total Cases and Total Deaths by US State using Tableau](https://public.tableau.com/profile/diane7394#!/vizhome/COVID19TotalCasesandDeathsperMillionPopulation/Dashboard1).  For these visualizations, I used data as of August 12, 2020.
